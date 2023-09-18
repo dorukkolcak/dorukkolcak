@@ -1,4 +1,5 @@
-### Hi there 👋
+### Doruk Kolçak
+Freshman at Bilkent University, Departmant of Computer Engineering
 
 <!--
 **dorukkolcak/dorukkolcak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
